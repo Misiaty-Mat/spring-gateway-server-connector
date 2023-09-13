@@ -6,6 +6,10 @@
 + MySQL server
 + MongoDB Server
 
++ # Architecture
++ ![Spring Gateway Architecture](https://github.com/Misiaty-Mat/spring-gateway-server-connector/assets/79845789/af0997d6-e7da-4fb8-b103-d6e8e33b8879)
+
+
 # Linked Paths:
 - http://localhost:8081/api/v1/*
 - http://localhost:8082/api/v2/*
